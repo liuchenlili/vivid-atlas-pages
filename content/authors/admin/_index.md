@@ -145,7 +145,6 @@ awards:
     icon: hero/academic-cap
   - title: Kaggle 铜牌
     url: ''
-    date: '2023-10-01'
     awarder: Kaggle - MAP: Charting Student Math Misunderstandings
     icon: hero/award
   - title: IEEE Big Data 2025 论文收录（第一作者）
