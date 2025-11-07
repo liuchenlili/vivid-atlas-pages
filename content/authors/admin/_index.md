@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 刘琛琛
+title: Chenchen Liu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Chenchen
-last_name: Liu
+first_name: Alex
+last_name: Johnson
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
-  icon: 💻
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,137 +23,150 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 后端开发工程师 / AI开发方向
+role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 浙江工商大学
-    url: https://www.zjgsu.edu.cn/
+  - name: Meta AI
+    url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:23020100082@pop.zjgsu.edu.cn'
+    url: '23020100082@pop.zjgsu.edu.cn'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/
+    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/alexjohnsonai/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - 后端开发
-  - 分布式系统
-  - 人工智能应用
-  - 数据可视化与知识图谱
+  - Large Language Models
+  - Computer Vision
+  - Reinforcement Learning
+  - AI Ethics
 
 education:
-  - area: 硕士研究生（软件工程）
-    institution: 浙江工商大学
+  - area: PhD Computer Science (AI Focus)
+    institution: Stanford University
     icon: ""
-    date_start: 2023-09-01
-    date_end: 2026-06-30
+    date_start: 2015-09-01
+    date_end: 2019-06-30
     summary: |
-      主修课程：软件理论与工程、数据科学与工程、计算理论、高级计算机体系结构、高级人工智能、嵌入式系统软硬件协同设计等。
-  - area: 本科（计算机科学与技术）
-    institution: 浙江工商大学
+      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com/thesis.pdf'
+  - area: MS Computer Science
+    institution: Carnegie Mellon University
     icon: ""
-    date_start: 2019-09-01
-    date_end: 2023-06-30
+    date_start: 2013-09-01
+    date_end: 2015-05-31
     summary: |
-      主修课程：计算机网络、操作系统、数据结构、深度学习、软件工程、编译原理等。
+      GPA: 4.0/4.0
+
+      Specialized in machine learning and robotics.
+  - area: BS Computer Science
+    institution: MIT
+    icon: ""
+    date_start: 2009-09-01
+    date_end: 2013-05-31
+    summary: |
+      GPA: 3.9/4.0
+
+      Minored in Mathematics. President of AI Club.
 
 work:
-  - position: 实习后端开发工程师
-    company_name: 浙大网新软件有限公司（人社业务部）
-    company_url: ''
+  - position: Senior AI Research Scientist
+    company_name: Meta AI
+    company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2025-06-01
-    date_end: 2025-09-01
+    date_start: 2020-01-01
+    date_end: ''
     summary: |2-
-      参与省社保国统项目的功能开发与维护。
-      技术栈：Spring、SpringMVC、MyBatis、Oracle、Dubbo、Vue、Element UI、FineReport。
-      核心工作：
-      - 独立完成城乡居民养老业务流程的接口设计、参数校验与数据处理模块；
-      - 使用 Vue + Element UI 进行前端开发，实现业务需求联调与数据可视化；
-      - 优化复杂 SQL 脚本与索引策略，使核心报表查询效率提升约 30%；
-      - 开发与调试 Dubbo RPC 接口，实现跨模块数据交互；
-      - 使用 FineReport 设计动态报表，实现业务指标的可视化监控。
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+  - position: AI Research Intern
+    company_name: OpenAI
+    company_url: 'https://openai.com/'
+    icon: ''
+    date_start: 2019-06-01
+    date_end: 2019-12-31
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 技术栈
+  - name: Technical Skills
     items:
-      - name: Java / SpringBoot / SpringCloud / MyBatis
+      - name: Python & PyTorch
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Redis / RabbitMQ / Nginx / Docker
+      - name: Machine Learning
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: SQL优化 / Oracle / MySQL
-        description: ''
-        percent: 90
+        percent: 100
         icon: chart-bar
-      - name: 分布式系统与微服务架构
+      - name: Cloud Computing (AWS/GCP)
         description: ''
         percent: 85
         icon: cloud
-      - name: PyTorch / AI 应用开发
-        description: ''
-        percent: 75
-        icon: sparkles
-  - name: 工具与开发
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Git / Maven / Linux
-        description: ''
-        percent: 90
-        icon: terminal
-      - name: FineReport / Element UI / Vue
-        description: ''
-        percent: 85
-        icon: layout
-      - name: Dify / Cursor / RAG / Agent
+      - name: Hiking in the Rockies
         description: ''
         percent: 80
-        icon: brain
+        icon: person-simple-walk
+      - name: Building Custom PCs
+        description: ''
+        percent: 90
+        icon: cpu-chip
+      - name: Sci-Fi Reading
+        description: ''
+        percent: 70
+        icon: book-open
 
 languages:
-  - name: 中文
+  - name: English
     percent: 100
-  - name: 英语
-    percent: 70
+  - name: Spanish
+    percent: 50
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 全国二等奖
-    url: ''
-    date: '2024-12-01'
-    awarder: “华为杯”中国研究生数学建模竞赛
+  - title: Best Paper Award
+    url: https://neurips.cc/
+    date: '2022-12-01'
+    awarder: NeurIPS
     icon: hero/trophy
     summary: |
-      因创新性算法设计与模型优化获得全国二等奖。
-  - title: PAT甲级认证
-    url: ''
-    date: '2022-08-01'
-    awarder: 浙江大学计算机等级考试中心
-    icon: hero/academic-cap
-  - title: Kaggle 铜牌
-    url: ''
-    awarder: Kaggle - MAP: Charting Student Math Misunderstandings
-    icon: hero/award
-  - title: IEEE Big Data 2025 论文收录（第一作者）
-    url: ''
-    date: '2025-11-01'
-    awarder: IEEE
-    icon: hero/book-open
+      Awarded for groundbreaking work on efficient training of large models.
+  - title: AI Innovation Grant
+    url: https://www.nsf.gov/
+    date: '2021-06-15'
+    awarder: National Science Foundation
+    icon: hero/currency-dollar
     summary: |
-      论文《Multi-Feature Fusion Strategies for Enhancing Knowledge Graph Embedding》被接收（CCF-C类会议）。
+      $500,000 grant for research in ethical AI development.
+  - title: Outstanding PhD Thesis
+    url: https://www.stanford.edu/
+    date: '2019-06-30'
+    awarder: Stanford University
+    icon: hero/academic-cap
+    summary: |
+      Recognized for contributions to scaling laws in deep learning.
 ---
 
-刘琛琛，浙江工商大学硕士研究生，专注于后端开发与AI智能系统构建。拥有扎实的Java开发基础与分布式系统经验，熟悉Spring全家桶、微服务、缓存优化与高并发场景设计。参与多个项目的核心开发，包括RAG知识库系统与高并发购票平台。曾获华为杯全国二等奖与IEEE会议论文收录。热衷于人工智能与软件工程的融合探索。
+Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
