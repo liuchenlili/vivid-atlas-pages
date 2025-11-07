@@ -6,8 +6,8 @@ title: Chenchen Liu
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Liu
+last_name: Chenchen
 
 # Pronouns (optional)
 pronouns: he/him
@@ -36,16 +36,13 @@ profiles:
   - icon: at-symbol
     url: '23020100082@pop.zjgsu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  - icon: brands/bilibili
+    url: https://space.bilibili.com/85472209
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/liuchenlili
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+
 
 interests:
   - Large Language Models
@@ -54,34 +51,21 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: 硕士研究生
+    institution: 浙江工商大学
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2023-09-01
+    date_end: 2026-06-30
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      主要课程: 高级软件工程、软件架构与设计模式、移动应用开发、云计算与大数据处理等。
+  - area: 工学学士
+    institution: 河南理工大学
+    icon: ""
+    date_start: 2019-09-01
+    date_end: 2023-06-30
+    summary: |
+      主要课程: 数据结构与算法、操作系统、计算机网络、数据库系统、软件工程等。
 
 work:
   - position: Senior AI Research Scientist
