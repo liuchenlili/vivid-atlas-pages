@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Third-Year Master’s Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Zhejiang Gongshang University
+    url: www.zjgsu.edu.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,12 +36,12 @@ profiles:
   - icon: at-symbol
     url: '23020100082@pop.zjgsu.edu.cn'
     label: E-mail Me
-  - icon: brands/bilibili
+  - icon: custom/bilibili
     url: https://space.bilibili.com/85472209
   - icon: brands/github
     url: https://github.com/liuchenlili
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/
 
 
 interests:
@@ -51,21 +51,37 @@ interests:
   - AI Ethics
 
 education:
-
-  - area: 硕士研究生
-    institution: 浙江工商大学
-    icon: ""
+  - area: MSc Computer Technology
+    institution: Zhejiang Gongshang University
     date_start: 2023-09-01
     date_end: 2026-06-30
+    gpa: 3.55/4.0
     summary: |
-      主要课程: 高级软件工程、软件架构与设计模式、移动应用开发、云计算与大数据处理等。
-  - area: 工学学士
-    institution: 河南理工大学
-    icon: ""
+      Research Focus: Knowledge Graphs and Artificial Intelligence Applications in Environmental Engineering
+
+      Main courses:
+      - Software Theory and Engineering
+      - Data Science and Engineering
+      - Computer Theory
+      - Advanced Computer Architecture
+      - Advanced Artificial Intelligence
+      - Embedded System Engineering
+
+  - area: BSc Computer Science and Technology
+    institution: Henan Polytechnic University
     date_start: 2019-09-01
     date_end: 2023-06-30
+    gpa: 3.05/4.0
     summary: |
-      主要课程: 数据结构与算法、操作系统、计算机网络、数据库系统、软件工程等。
+      Main courses:
+      - Computer Networks
+      - Computer Organization and Principles
+      - Deep Learning
+      - Data Structures
+      - Operating Systems
+      - Software Engineering
+      - Compiler Principles
+      - Analog and Digital Circuits
 
 work:
   - position: Senior AI Research Scientist
@@ -90,34 +106,42 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+      - name: Java
+        description: '熟悉 JVM 运行机制与内存模型，了解类加载与垃圾回收机制。'
         percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
+        icon: devicon/java
+      - name: Spring Boot
+        description: '熟悉分布式与微服务开发，掌握 Seata、Nginx、Nacos、Sentinel 等工具。'
+        percent: 85
+        icon: devicon/spring
+      - name: MySQL
+        description: '熟悉 MySQL 与 Oracle，了解底层数据结构、缓冲池、索引、事务与日志机制。'
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
+        icon: devicon/mysql
+      - name: Redis
+        description: '熟悉 Redis 分布式事务及缓存穿透、缓存雪崩等问题的解决方案。'
+        percent: 85
+        icon: devicon/redis
+      - name: RabbitMQ
+        description: '熟悉消息模型、消息持久化与 ACK 确认机制，掌握异步消息处理流程。'
+        percent: 80
+        icon: devicon/rabbitmq
+      - name: Docker
+        description: '熟悉容器化部署流程，掌握 Linux 常用命令及服务环境搭建。'
+        percent: 80
+        icon: devicon/docker
+      - name: Git & Maven
+        description: '熟练使用 Git 进行分支管理与协作开发，掌握 Maven 构建与依赖管理。'
+        percent: 85
+        icon: devicon/git
+      - name: PyTorch
+        description: '熟悉深度学习框架及 CV/NLP 领域常见算法。'
         percent: 70
-        icon: book-open
+        icon: devicon/pytorch
+      - name: AI Tools
+        description: '熟练使用 Cursor、Dify 等工具，了解 RAG、Agent 基本原理与应用。'
+        percent: 75
+        icon: devicon/openai
 
 languages:
   - name: English
