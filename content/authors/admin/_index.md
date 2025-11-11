@@ -142,12 +142,33 @@ skills:
         description: '熟练使用 Cursor、Dify 等工具，了解 RAG、Agent 基本原理与应用。'
         percent: 75
         icon: devicon/openai
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: '热爱户外徒步与自然探索。'
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: '喜欢与动物相处。'
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: '热衷于记录风景与人文摄影，关注光影与构图。'
+        percent: 80
+        icon: camera        
 
 languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Java
+    percent: 90
+  - name: Python
+    percent: 85
+  - name: C++
+    percent: 70
+  - name: PyTorch
+    percent: 75
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
