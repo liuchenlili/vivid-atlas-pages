@@ -160,42 +160,58 @@ skills:
         icon: camera        
 
 languages:
-  - name: Java
-    percent: 90
   - name: Python
-    percent: 85
+    percent: 95
   - name: C++
-    percent: 70
+    percent: 90
   - name: PyTorch
-    percent: 75
+    percent: 85
+  - name: Java
+    percent: 85
 
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
+  - title: Huawei Cup – 21st China Postgraduate Mathematical Contest in Modeling, National Second Prize
+    date: '2024-11-01'
+    awarder: China Postgraduate Mathematical Modeling Competition Committee
+    icon: mdi/math-compass
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
+      Awarded the National Second Prize in the 21st “Huawei Cup” China Postgraduate Mathematical Contest in Modeling. 
+      Our team’s research focused on highway video analysis for intelligent traffic management — determining whether emergency lanes should be activated based on real-time conditions. 
+      I was primarily responsible for programming, data preprocessing, and model development, implementing machine learning algorithms to classify traffic flow patterns. 
+      Through iterative optimization and close collaboration with teammates, we successfully built an efficient decision-support model for emergency lane activation.
+
+  - title: PAT Advanced Level Certification
+    date: '2022-08-01'
+    awarder: Zhejiang University Programming Ability Test Platform
+    icon: mdi/certificate
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      Passed the PAT Advanced Level Examination (Summer 2022), demonstrating strong abilities in algorithm design, data structure implementation, and computational complexity optimization.
+
+  - title: Kaggle Competition — MAP Charting Student Math Misunderstandings, Bronze Medal
+    url: https://www.kaggle.com/competitions/charting-student-math-misunderstandings
+    date: '2023-05-01'
+    awarder: Kaggle
+    icon: brands/kaggle
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Won a Bronze Medal in the Kaggle competition “MAP: Charting Student Math Misunderstandings.” 
+      The project focused on modeling and predicting student misconceptions in mathematics. 
+      Utilized deep learning and knowledge graph fusion techniques to enhance model performance and interpretability.
+
+  - title: Multi-Feature Fusion Strategies for Enhancing Knowledge Graph Embedding
+    date: '2025-12-08'
+    awarder: IEEE Big Data 2025 (CCF-C)
+    icon: brands/ieee
+    summary: |
+      First-author paper accepted by IEEE Big Data 2025, focusing on knowledge graph embedding and multi-feature fusion strategies. 
+      Proposed a multimodal feature integration mechanism to improve embedding quality and representation learning. 
+
+
 ---
 
 Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
