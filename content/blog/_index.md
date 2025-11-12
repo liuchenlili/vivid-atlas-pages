@@ -18,9 +18,8 @@ sections:
           - blog
     design:
       view: article-grid
-      fill_image: false
-      columns: 3
-      show_date: false
-      show_read_time: false
-      show_read_more: false
+      fill_image: true
+      show_date: true
+      show_read_time: true
+      show_read_more: true
 ---
