@@ -16,11 +16,12 @@ sections:
       filters:
         folders:
           - blog
+      count: 0
     design:
       view: article-grid
       fill_image: true
       show_date: true
-      columns: 3
+      columns: 1
       show_read_time: true
       show_read_more: true
 ---
