@@ -107,39 +107,39 @@ skills:
   - name: Technical Skills
     items:
       - name: Java
-        description: '熟悉 JVM 运行机制与内存模型，了解类加载与垃圾回收机制。'
+        description: 'Familiar with JVM runtime mechanism and memory model; understand class loading and garbage collection mechanisms.'
         percent: 85
         icon: devicon/java
       - name: Spring Boot
-        description: '熟悉分布式与微服务开发，掌握 Seata、Nginx、Nacos、Sentinel 等工具。'
+        description: 'Experienced in distributed and microservice development; proficient with tools such as Seata, Nginx, Nacos, and Sentinel.'
         percent: 85
         icon: devicon/spring
       - name: MySQL
-        description: '熟悉 MySQL 与 Oracle，了解底层数据结构、缓冲池、索引、事务与日志机制。'
+        description: 'Familiar with MySQL and Oracle; understand underlying data structures, buffer pool, indexes, transactions, and log mechanisms.'
         percent: 90
         icon: devicon/mysql
       - name: Redis
-        description: '熟悉 Redis 分布式事务及缓存穿透、缓存雪崩等问题的解决方案。'
+        description: 'Knowledgeable in Redis distributed transactions and solutions to issues like cache penetration and cache avalanche.'
         percent: 85
         icon: devicon/redis
       - name: RabbitMQ
-        description: '熟悉消息模型、消息持久化与 ACK 确认机制，掌握异步消息处理流程。'
+        description: 'Understand messaging models, message persistence, and ACK confirmation mechanisms; skilled in asynchronous message processing.'
         percent: 80
         icon: devicon/rabbitmq
       - name: Docker
-        description: '熟悉容器化部署流程，掌握 Linux 常用命令及服务环境搭建。'
+        description: 'Familiar with containerized deployment processes; proficient in common Linux commands and environment setup.'
         percent: 80
         icon: devicon/docker
       - name: Git & Maven
-        description: '熟练使用 Git 进行分支管理与协作开发，掌握 Maven 构建与依赖管理。'
+        description: 'Proficient in using Git for branch management and collaborative development; skilled in Maven project building and dependency management.'
         percent: 85
         icon: devicon/git
       - name: PyTorch
-        description: '熟悉深度学习框架及 CV/NLP 领域常见算法。'
+        description: 'Familiar with deep learning frameworks and common algorithms in CV/NLP domains.'
         percent: 70
         icon: devicon/pytorch
       - name: AI Tools
-        description: '熟练使用 Cursor、Dify 等工具，了解 RAG、Agent 基本原理与应用。'
+        description: 'Proficient in using tools like Cursor and Dify; understand basic principles and applications of RAG and Agents.'
         percent: 75
         icon: devicon/openai
   - name: Hobbies
@@ -147,17 +147,18 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: '热爱户外徒步与自然探索。'
+        description: 'Love outdoor hiking and nature exploration.'
         percent: 60
         icon: person-simple-walk
       - name: Cats
-        description: '喜欢与动物相处。'
+        description: 'Enjoy spending time with animals.'
         percent: 100
         icon: cat
       - name: Photography
-        description: '热衷于记录风景与人文摄影，关注光影与构图。'
+        description: 'Passionate about landscape and cultural photography; attentive to light, shadow, and composition.'
         percent: 80
-        icon: camera        
+        icon: camera
+    
 
 languages:
   - name: Python
@@ -179,7 +180,7 @@ awards:
   - title: Huawei Cup – 21st China Postgraduate Mathematical Contest in Modeling, National Second Prize
     date: '2024-11-01'
     awarder: China Postgraduate Mathematical Modeling Competition Committee
-    icon: mdi/math-compass
+    icon: fas fa-calculator
     summary: |
       Awarded the National Second Prize in the 21st “Huawei Cup” China Postgraduate Mathematical Contest in Modeling. 
       Our team’s research focused on highway video analysis for intelligent traffic management — determining whether emergency lanes should be activated based on real-time conditions. 
@@ -189,7 +190,7 @@ awards:
   - title: PAT Advanced Level Certification
     date: '2022-08-01'
     awarder: Zhejiang University Programming Ability Test Platform
-    icon: mdi/certificate
+    icon: fas fa-certificate
     summary: |
       Passed the PAT Advanced Level Examination (Summer 2022), demonstrating strong abilities in algorithm design, data structure implementation, and computational complexity optimization.
 
@@ -197,7 +198,7 @@ awards:
     url: https://www.kaggle.com/competitions/charting-student-math-misunderstandings
     date: '2023-05-01'
     awarder: Kaggle
-    icon: brands/kaggle
+    icon: fab fa-kaggle
     summary: |
       Won a Bronze Medal in the Kaggle competition “MAP: Charting Student Math Misunderstandings.” 
       The project focused on modeling and predicting student misconceptions in mathematics. 
@@ -206,10 +207,10 @@ awards:
   - title: Multi-Feature Fusion Strategies for Enhancing Knowledge Graph Embedding
     date: '2025-12-08'
     awarder: IEEE Big Data 2025 (CCF-C)
-    icon: brands/ieee
+    icon: ai ai-ieee
     summary: |
       First-author paper accepted by IEEE Big Data 2025, focusing on knowledge graph embedding and multi-feature fusion strategies. 
-      Proposed a multimodal feature integration mechanism to improve embedding quality and representation learning. 
+      Proposed a multimodal feature integration mechanism to improve embedding quality and representation learning.
 
 
 ---
