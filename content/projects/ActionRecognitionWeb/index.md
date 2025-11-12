@@ -10,9 +10,11 @@ tags:
   - AI
 ---
 github地址：https://github.com/liuchenlili/ActionRecognitionWeb
-**Bilibili**:
 
-    {{</* bilibili BV17V4y1Y7XQ */>}}
+**Bilibili演示视频demo:**:
+
+{{< bilibili id="BV17V4y1Y7XQ" >}}
+
 # 动作识别Web应用 (ActionRecognitionWeb)
 
 基于Django和R3D模型的视频动作识别Web应用，支持实时监控、视频分析和异常行为检测。
