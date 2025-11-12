@@ -9,6 +9,7 @@ tags:
   - 数据降维
   - 教学笔记
   - 可视化
+math: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
@@ -185,5 +186,3 @@ UMAP 也是一种**非线性降维方法**，基于**流形学习理论**。
 
 ---
 
-*编写人：数据科学学习笔记*  
-*更新日期：2025 年 11 月*
