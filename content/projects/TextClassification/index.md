@@ -5,8 +5,8 @@ links:
   - type: site
     url: https://github.com/liuchenlili/TextClassification
 tags:
-  - Hugo
-  - HugoBlox
+  - TextClassification
+  - NLP
   - Markdown
 ---
 
