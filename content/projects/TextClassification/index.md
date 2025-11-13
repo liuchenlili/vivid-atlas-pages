@@ -1,5 +1,5 @@
 ---
-title: Pandas
+title: TextClassification
 date: 2023-10-24
 links:
   - type: site
